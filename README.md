@@ -119,14 +119,22 @@ BuzzSense_Lavanya/
 ## 🚀 How to Run the Project
 
 - 1️⃣ Clone the Repository
+
   git clone https://github.com/LavanyaPanwar/BuzzSense-Smart-Hive-Monitoring.git
   cd BuzzSense-Smart-Hive-Monitoring
+
 - 2️⃣ Install Dependencies
+
   pip install numpy pandas librosa scikit-learn tensorflow
+
 - 3️⃣ Run the Application
+
   python ui.py
+
 - 4️⃣ Test with Sample Audio
+
   Use test_sample_1.wav or your own hive audio recording.
+
   The system outputs the predicted hive condition
 
 ---
