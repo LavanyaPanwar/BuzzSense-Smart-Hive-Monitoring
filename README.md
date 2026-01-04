@@ -143,9 +143,7 @@ BuzzSense_Lavanya/
 
 ## 👩‍💻 Author
 
-Lavanya Panwar
-
-B.Tech Computer Science
+Lavanya Panwar, B.Tech Computer Science
 
 Interest Areas: Machine Learning, Backend Development, AI for Social Impact
 
@@ -156,6 +154,8 @@ Interest Areas: Machine Learning, Backend Development, AI for Social Impact
 For collaboration, feedback, or dataset access:
 
 - GitHub: https://github.com/LavanyaPanwar
+
+---
 
 ## 📜 License
 
