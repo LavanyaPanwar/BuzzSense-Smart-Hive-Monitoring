@@ -91,6 +91,7 @@ Traditional beehive monitoring relies heavily on manual inspection, which is tim
 
 ## 🖥️ Project Structure
 
+```text
 BuzzSense_Lavanya/
 ├── assets/ # Images and UI assets for the app
 │ ├── bg.png
@@ -106,6 +107,7 @@ BuzzSense_Lavanya/
 ├── test_sample_1.wav # Example hive audio file
 ├── README.md # Project documentation
 └── .gitignore # Git ignore rules
+```
 
 ---
 
@@ -142,7 +144,9 @@ BuzzSense_Lavanya/
 ## 👩‍💻 Author
 
 Lavanya Panwar
+
 B.Tech Computer Science
+
 Interest Areas: Machine Learning, Backend Development, AI for Social Impact
 
 ---
